@@ -14,11 +14,9 @@ npm install xmtp-bindings-rn
 
 
 ```js
-import { multiply } from 'xmtp-bindings-rn';
+import { getVersionInfo } from 'xmtp-bindings-rn';
 
-// ...
-
-const result = multiply(3, 7);
+const versionInfo = getVersionInfo();
 ```
 
 

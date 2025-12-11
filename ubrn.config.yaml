@@ -1,0 +1,5 @@
+---
+rust:
+  repo: https://github.com/xmtp/libxmtp.git
+  branch: 12-10-bump_tracing-oslog
+  manifestPath: bindings_ffi/Cargo.toml
